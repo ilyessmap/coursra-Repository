@@ -1,0 +1,16 @@
+{
+  "bookmark": "g2wAAAACaAJkAA5zdGFydGtleV9kb2NpZG0AAAAgMWZjZmI0MDlhMWI1ODRlZWE1MmM1MGZmNjI1ZTMzMWNoAmQACHN0YXJ0a2V5bAAAAAFtAAAAAkFMamo",
+  "docs": [{
+    "address": "9477 Twin Pines Center",
+    "city": "Birmingham",
+    "full_name": "Sub-Ex Car Dealership",
+    "id": 3,
+    "lat": 33.5446,
+    "long": -86.9292,
+    "short_name": "Sub-Ex",
+    "st": "AL",
+    "state": "Alabama",
+    "zip": "35285"
+  }],
+  "warning": "_design/orderbystate was not used because it does not contain a valid index for this query."
+}
